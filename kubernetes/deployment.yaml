@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx-test-app
-        image: amarchanddargad/nginx-test-app:e9d8fe6035ab91914b93ef80601293418cb9db91
+        image: amarchanddargad/nginx-test-app:ab7c2f09c62e545d42ca632d90c6b8013f74b617
         ports:
         - containerPort: 80
 ---
