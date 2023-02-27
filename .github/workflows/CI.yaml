@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: rajatrj16/nginx-test-app:${{ github.sha }}
+          tags: amarchanddargad/nginx-test-app:${{ github.sha }}
 
       - name: Update Version
         run: |
