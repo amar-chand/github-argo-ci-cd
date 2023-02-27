@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/amarchanddargad/github-argo-ci-cd.git
+    repoURL: https://github.com/amar-chand/github-argo-ci-cd.git
     targetRevision: HEAD
     path: kubernetes
   destination:
